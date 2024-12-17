@@ -24,9 +24,3 @@ A verificação é feita com o operador `%` (resto da divisão).
 
 ---
 
-## 🔧 **Exemplo de Entrada e Saída**
-
-### **Entrada:**
-```plaintext
-Digite o primeiro número: 4  
-Digite o segundo número: 16
