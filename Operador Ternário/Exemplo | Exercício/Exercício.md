@@ -20,7 +20,5 @@ O programa solicita dois números inteiros:
 - Se o segundo número for múltiplo do primeiro, exibir: **"É múltiplo"**.  
 - Caso contrário, exibir: **"Não é múltiplo"**.
 
-A verificação é feita com o operador `%` (resto da divisão).
-
 ---
 
