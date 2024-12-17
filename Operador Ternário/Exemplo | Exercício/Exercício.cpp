@@ -11,7 +11,7 @@ int main() {
 	cin >> entrada2;
 
 	if(entrada2 != 0) {     //evitando a divisao por zero
-		(entrada1 % entrada2 == 0) ? condicao = true : condicao = false;
+		condicao = (entrada1 % entrada2 == 0) ? true : false;
 	}
 	else {
 		cout << "Divisao por zero nao eh permitida" << endl;
