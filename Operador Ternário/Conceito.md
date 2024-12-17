@@ -6,7 +6,7 @@ O operador ternário em C++ é uma forma simplificada de escrever expressões co
 
 ## ✅ **O que é o Operador Ternário?**
 
-O operador ternário é um operador condicional que avalia uma expressão booleana e retorna um dos dois valores, dependendo do resultado da condição.
+O operador ternário é um operador condicional que avalia uma expressão e retorna um dos dois valores, dependendo do resultado da condição.
 
 Ele é chamado de "ternário" porque envolve três operandos:
 1. **Condição** a ser avaliada.
