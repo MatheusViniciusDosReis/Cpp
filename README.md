@@ -27,11 +27,8 @@ Cada tópico de estudo segue a mesma estrutura padrão para facilitar a navegaç
 │   ├── conceito-2.md
 │   └── ...
 │
-├── 📂 02-exemplos/      <-- Exemplos práticos com código C++
-│   ├── exemplo-1.cpp
-│   ├── exemplo-2.cpp
-│   └── ...
-│
-└── 📂 03-exercicios/    <-- Exercícios com problemas e soluções
-    ├── exercicio-1.md
-    └── exercicio-1-resolvido.cpp
+├── 📂 02-exemplos | exercicios/      <-- Exemplos práticos com código C++
+│   ├── exemplo.cpp
+│   ├── exercicio.md
+|   └── exercicio-resolvido.cpp
+    
